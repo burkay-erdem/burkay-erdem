@@ -1,7 +1,7 @@
 # Hi 👋 !
 
 ## I'm Burkay ERDEM
-<small style='font-size:12px;'>A place to mine Gold and Diamond! </small>
+<small style='font-size:12px;'> </small>
 
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burkay-erdem-086318163/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:burkaerdem@gmail.com) 
